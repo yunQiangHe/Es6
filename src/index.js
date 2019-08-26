@@ -1,11 +1,7 @@
-function Point(x, y) {
-    this.x = x;
-    this.y = y;
+const s = new Set();
+
+[2, 3, 5, 4, 5, 2, 2].forEach(x => s.add(x));
+
+for (let i of s) {
+  console.log(i);
 }
-
-Point.prototype.toString = function () {
-    return '(' + this.x + ', ' + this.y + ')';
-};
-
-var p = new Point(1, 2);
-console.log(p.toString());
