@@ -1,7 +1,7 @@
 const path = require("path"); //引入node 路径处理模块
 
 module.exports = { // node中 模块
-    mode: "production",
+    mode: "development",
     entry: "./src/index.js", // 入口
     output: { // 输出
         path: path.resolve(__dirname, "dist"),  //path.resolve() 方法将路径或路径片段的序列解析为绝对路径。
