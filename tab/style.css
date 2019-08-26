@@ -187,6 +187,7 @@ h6 {
     overflow: hidden;
     border-right: 1px solid #ddd;
     border-bottom: 1px solid #ddd;
+    cursor: pointer;
 }
 
 .firstnav ul li.liactive{
@@ -200,6 +201,8 @@ h6 {
 }
 .firstnav .tabadd{
     width: 100%;
+    height: 40px;
+    line-height: 40px;
     border-bottom: 1px solid #ddd;
 }
 
@@ -213,6 +216,7 @@ h6 {
     border: 1px solid pink;
     margin-top: 10px;
     margin-right: 10px;
+    cursor: pointer;
 }
 
 .tabscon section {
