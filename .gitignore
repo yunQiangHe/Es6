@@ -1,6 +1,5 @@
 .DS_Store
 node_modules
-/javaScript进阶面向对象ES6资料
 
 # local env files
 .env.local
