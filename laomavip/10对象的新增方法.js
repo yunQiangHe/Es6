@@ -1,0 +1,6 @@
+// Object.is()
+// Object.assign()
+// Object.getOwnPropertyDescriptors()
+// __proto__属性，Object.setPrototypeOf()，Object.getPrototypeOf()
+// Object.keys()，Object.values()，Object.entries()
+// Object.fromEntries()
