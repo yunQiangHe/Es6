@@ -112,3 +112,7 @@ console.log(m.get(o));
 console.log(m.has(o));
 console.log(m.delete(o));
 console.log(m.has(o));
+
+
+// Map 的实例方法 
+// Map 和 Object Array JOSN  数据转换
